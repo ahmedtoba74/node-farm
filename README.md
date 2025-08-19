@@ -4,7 +4,7 @@
 
   **A simple web application built from scratch with pure Node.js, demonstrating core concepts like routing, reading files, and template rendering without frameworks.**
 
-  <img src="https://i.imgur.com/example.png" alt="Node Farm Application Interface"/>
+  <img src="/NodeFarm.jpg" alt="Node Farm Application Interface"/>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   [![Node.js Version](https://img.shields.io/badge/Node.js-v18-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
